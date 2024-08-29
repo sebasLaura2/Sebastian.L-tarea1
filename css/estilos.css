@@ -1,0 +1,48 @@
+*
+{
+    margin: 0px;
+}
+.padre
+{
+    background-color: red;
+    padding: 20px;
+    width: 400px;
+}
+.hijo
+{
+    background-color: red;
+    padding: 20px;
+}
+.nieto
+{
+    background-color: chartreuse;
+    padding: 20px;
+}
+.bisnieto
+{
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 10px;
+}
+.tataranieto
+{
+    background-color: white;
+    padding: 20px;
+}
+.tataratataranieto
+{
+    background-color: blueviolet;
+    padding: 20px;
+}
+.ultimoNieto
+{
+    background-color: blue;
+    padding: 20px;
+    margin: 10px;
+}
+.elmuerto
+{
+    background-color: pink;
+    padding: 20px;
+    margin: 10px;
+}
